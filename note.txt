@@ -1,1 +1,3 @@
-This is first message from github
+This is first message from github.
+
+The new message
